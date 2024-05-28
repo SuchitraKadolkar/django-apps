@@ -16,4 +16,5 @@ Commands for migration:
   3. python manage.py migrate
   4. python manage.py runserver
 
-1. django-first-project => In this project I have created basic first Django project.
+   
+django-first-project => In this project I have created basic first Django project.
