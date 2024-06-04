@@ -18,5 +18,7 @@ Commands for migration:
 
    
 django-first-project => In this project, I have created basic first Django project.
+
 django_url_template => In this project, I have created separate url.py for each application and this urls.py fils path included in main urls.py
+
 db_admin_project => In this project, I have created simple database(sqlite) 
