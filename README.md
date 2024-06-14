@@ -22,3 +22,5 @@ django-first-project => In this project, I have created basic first Django proje
 django_url_template => In this project, I have created separate url.py for each application and this urls.py fils path included in main urls.py
 
 db_admin_project => In this project, I have created simple database(sqlite) 
+
+django_graphql => In this project, I have implemented Django with GraphQL.
